@@ -381,12 +381,14 @@ nav span{
 }
 
 .portfolios-col{
-    flex-basis: 30%;
+    flex-basis: 32%;
     border-radius: 10px;
     margin-bottom: 30px;
     position: relative;
     overflow: hidden;
-
+    border:3px solid rgba(11, 129, 123, 0.3);
+    margin:auto;
+    
 }
 
 .portfolios-col img{
